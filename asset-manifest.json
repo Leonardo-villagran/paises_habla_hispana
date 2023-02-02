@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/paises_habla_hispana/static/css/main.f51bdc0c.css",
+    "main.js": "/paises_habla_hispana/static/js/main.e69a5acf.js",
+    "static/media/hispana.png": "/paises_habla_hispana/static/media/hispana.5b6456bf9e66347eea30.png",
+    "index.html": "/paises_habla_hispana/index.html",
+    "main.f51bdc0c.css.map": "/paises_habla_hispana/static/css/main.f51bdc0c.css.map",
+    "main.e69a5acf.js.map": "/paises_habla_hispana/static/js/main.e69a5acf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f51bdc0c.css",
+    "static/js/main.e69a5acf.js"
+  ]
+}
